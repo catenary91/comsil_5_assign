@@ -1,2 +1,2 @@
 on master branch
-edit on branch1
+edit on branch2
